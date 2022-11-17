@@ -1,20 +1,19 @@
-<img align="Right" alt="Coding" width="400" scr="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjO_9OevbX7AhV6K7cAHT_8AywQMyhXegUIARDWAQ..i&docid=JaoX1Z03zMxihM&w=800&h=600&q=coding%20gif%20image&ved=2ahUKEwjO_9OevbX7AhV6K7cAHT_8AywQMyhXegUIARDWAQ.gif"> 
+<img align="Right" alt="Coding" width="400" scr="https://www.pinterest.com/pin/203999058100348789/.gif"> 
 
 <h1 align="center">Hi 👋, I'm Rudra Narayan Hota</h1>
 <h3 align="center">Currently persuading my B.Tech in CSE Branch at GIET,bbsr🏫🎓 !</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranarayanhota-143&label=Profile%20views&color=0e75b6&style=flat" alt="rudranarayanhota-143" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudranarayanhota-143" alt="rudranarayanhota-143" /></a> </p>
 
-- 📫 How to reach me **rudranarayanhota9897@gmail.com**
+- 📫 How to reach me **rudranarayanhota143@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-2vM2QqJ11KiATP_BM8F_q-I6hjZzJkx/view?usp=drivesdk](https://drive.google.com/file/d/1-2vM2QqJ11KiATP_BM8F_q-I6hjZzJkx/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudra narayan hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra narayan hota" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rudra-narayan-hota-770b99202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rudra-narayan-hota-770b99202" height="30" width="40" /></a>
 <a href="https://instagram.com/rudra_narayan_hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudra_narayan_hota" height="30" width="40" /></a>
 </p>
 
