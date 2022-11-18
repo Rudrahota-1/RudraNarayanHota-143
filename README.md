@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranarayanhota-143&label=Profile%20views&color=0e75b6&style=flat" alt="rudranarayanhota-143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudranarayanhota-143" alt="rudranarayanhota-143" /></a> </p>
 
-- 📫 How to reach me **rudranarayanhota9897@gmail.com**
+
+- 📫 How to reach me **rudranarayanhota143@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-9mtIC3Z3fb9fYcw87xYAYFBJcNNwXmJ/view?usp=drivesdk](https://drive.google.com/file/d/1-9mtIC3Z3fb9fYcw87xYAYFBJcNNwXmJ/view?usp=drivesdk)
 
