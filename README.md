@@ -7,7 +7,7 @@
 
 
 
-- 📫 How to reach me **rudranarayanhota143@gmail.com**
+- 📫 How to reach me **rudranarayanhota9897@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-9mtIC3Z3fb9fYcw87xYAYFBJcNNwXmJ/view?usp=drivesdk](https://drive.google.com/file/d/1-9mtIC3Z3fb9fYcw87xYAYFBJcNNwXmJ/view?usp=drivesdk)
 
